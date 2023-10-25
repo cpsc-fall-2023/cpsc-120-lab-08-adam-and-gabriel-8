@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
             << " with " << condiment << ".";
   // TODO: Use cout to print output following the pattern
   // Your order: A *PROTEIN* sandwich on *BREAD* with *CONDIMENT*.
-  // on its own line.
+  // on its own line
 
   return 0;
 }
